@@ -1,4 +1,4 @@
-# Playwright POM Automation Testing
+# Web API Test
 
 This project is an automated testing framework for the web application at [https://practice.automationtesting.in/](https://practice.automationtesting.in/) using Playwright and the Page Object Model (POM) design pattern. The framework is designed to be scalable, maintainable, and capable of executing tests in parallel across different browsers.
 
